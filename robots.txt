@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kommercheskij-direktor-obuchenie.vercel.app/sitemap.xml
